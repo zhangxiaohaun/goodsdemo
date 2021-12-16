@@ -22,7 +22,7 @@ import java.util.List;
 @RequestMapping("/goods")
 @Controller
 public class goodsController {
-
+//1
     @Resource
     private GoodsService goodsService;
 
